@@ -1,0 +1,13 @@
+C:\Users\dejai_000\Desktop\Aual34MVC\bin\Debug\netcoreapp3.1\Aual34MVC.exe
+C:\Users\dejai_000\Desktop\Aual34MVC\bin\Debug\netcoreapp3.1\Aual34MVC.deps.json
+C:\Users\dejai_000\Desktop\Aual34MVC\bin\Debug\netcoreapp3.1\Aual34MVC.runtimeconfig.json
+C:\Users\dejai_000\Desktop\Aual34MVC\bin\Debug\netcoreapp3.1\Aual34MVC.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\Aual34MVC\bin\Debug\netcoreapp3.1\Aual34MVC.dll
+C:\Users\dejai_000\Desktop\Aual34MVC\bin\Debug\netcoreapp3.1\Aual34MVC.pdb
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.dll
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.pdb
+C:\Users\dejai_000\Desktop\Aual34MVC\obj\Debug\netcoreapp3.1\Aual34MVC.genruntimeconfig.cache
